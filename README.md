@@ -1,2 +1,2 @@
 # Deneme
-Öyle bir denemek için
+Bu ilk deneme dosyam.
